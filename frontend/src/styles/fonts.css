@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Regola Pro';
+  src: url(./fonts/RegolaPro/RegolaPro-Regular.woff2) format('woff2'),
+      url(./fonts/RegolaPro/RegolaPro-Regular.woff) format('woff');
+  font-style: normal;
+  font-weight: 400;
+}

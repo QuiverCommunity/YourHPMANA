@@ -1,4 +1,4 @@
-# YourHPMANA
+# umh (Your mana controls your health)
 
 ## Installation
 ### 1. Download and install the most stable version of nodejs [here](https://nodejs.org/en/).
